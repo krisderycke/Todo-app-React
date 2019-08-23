@@ -2,9 +2,35 @@ import React, { Component } from "react";
 
 class Table extends Component {
   render() {
+    const { characterData } = this.props;
     return (
       <table>
-        <thead>
+        <TableHeader />
+        <TableBody characterData={characterData} />
+      </table>
+    );
+  }
+}
+
+//  simple component style; using functions as components (aka vars) to use ti construct the table
+const TableHeader = () => {
+  return (
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Job</th>
+      </tr>
+    </thead>
+  );
+};
+
+const TableBody = () => {
+  return <tbody />;
+};
+
+/* class component style: coding like in html  */
+
+/* <thead>
           <tr>
             <th>Name</th>
             <th>Job</th>
@@ -23,9 +49,6 @@ class Table extends Component {
             <td>Dennis</td>
             <td>Bartender</td>
           </tr>
-        </tbody>
-      </table>
-    );
-  }
-}
+        </tbody> */
+
 export default Table;
