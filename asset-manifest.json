@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/krisderycke/Todo-app-React/static/css/main.d498bfb3.chunk.css",
+    "main.js": "/krisderycke/Todo-app-React/static/js/main.d417f1b4.chunk.js",
+    "main.js.map": "/krisderycke/Todo-app-React/static/js/main.d417f1b4.chunk.js.map",
+    "runtime~main.js": "/krisderycke/Todo-app-React/static/js/runtime~main.4c37bf68.js",
+    "runtime~main.js.map": "/krisderycke/Todo-app-React/static/js/runtime~main.4c37bf68.js.map",
+    "static/js/2.ff9eaa9c.chunk.js": "/krisderycke/Todo-app-React/static/js/2.ff9eaa9c.chunk.js",
+    "static/js/2.ff9eaa9c.chunk.js.map": "/krisderycke/Todo-app-React/static/js/2.ff9eaa9c.chunk.js.map",
+    "index.html": "/krisderycke/Todo-app-React/index.html",
+    "precache-manifest.4f60d73b0a1859a9cddf695b5806760e.js": "/krisderycke/Todo-app-React/precache-manifest.4f60d73b0a1859a9cddf695b5806760e.js",
+    "service-worker.js": "/krisderycke/Todo-app-React/service-worker.js",
+    "static/css/main.d498bfb3.chunk.css.map": "/krisderycke/Todo-app-React/static/css/main.d498bfb3.chunk.css.map"
+  }
+}
